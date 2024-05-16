@@ -1,0 +1,6 @@
+"Hangman" is a word guessing game where the player tries to guess a secret word chosen from categories like fruits or vegetables. 
+The player has a limited number of attempts to guess the word by suggesting letters. If the guessed letter is in the word, it gets revealed; otherwise, a part of a hangman is drawn. 
+The player wins if they correctly guess the word before making too many incorrect guesses and loses if they exhaust all attempts without guessing the word. 
+It's a fun and challenging game to test your vocabulary and deduction skills!
+
+Game link - https://onlinegdb.com/sOgc2t3Gx
